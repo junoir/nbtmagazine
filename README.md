@@ -1,0 +1,2 @@
+# nbtmagazine
+new magazine
